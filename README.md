@@ -12,3 +12,19 @@ You will need to:
  1. Prepare the data for training and testing
  2. Build and train custom LSTM RNNs
  3. Evaluate the performance of each model
+
+
+Finally, use the testing data to evaluate each model and compare the performance.
+Use the above to answer the following:
+
+* Which model has a lower loss?
+
+* Answer:The model with the lower loss is the closing prices predictor
+
+* Which model tracks the actual values better over time?
+
+* Answer:The model with better results over time is the closing prices predictor
+
+* Which window size works best for the model?
+
+* Answer:The window size that works better is 1
