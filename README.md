@@ -21,9 +21,13 @@ Use the above to answer the following:
 
 * Answer:The model with the lower loss is the closing prices predictor
 
+![loss](Images/lower_loss_CP.png)
+
 * Which model tracks the actual values better over time?
 
 * Answer:The model with better results over time is the closing prices predictor
+
+![model_predicted](Images/actual_vc_predictedCP.png)
 
 * Which window size works best for the model?
 
