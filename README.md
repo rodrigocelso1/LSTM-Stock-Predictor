@@ -1,4 +1,4 @@
-# Unit-14---LSTM-Stock-Predictor
+# LSTM-Stock-Predictor
 
 ![Ai-Stock](Images/AI-Stock.jpg)
 
